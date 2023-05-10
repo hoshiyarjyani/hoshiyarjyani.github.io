@@ -47,7 +47,7 @@ document.getElementById("resume-button-1").onclick = () => {
   );
 };
 
-document.getElementById("resume-button-2").onclick = () => {
+document.getElementById("resume-link-2").onclick = () => {
   window.open(
     "https://drive.google.com/file/d/16rdkBqNuaSTC4TMVWpN2thxc1Cg8MEwV/view?usp=share_link"
   );

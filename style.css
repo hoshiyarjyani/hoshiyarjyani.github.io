@@ -9,6 +9,21 @@ body{
   #width {
     margin: 7%;
   }
+  .resume {
+    background-color: #fff;
+    border: 0px solid #000;
+    color: #000;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+  }
+  
+  .resume:hover {
+    background-color: #000;
+    color: #fff;
+  }
   
   #nav-menu{
     display: flex;
@@ -50,7 +65,7 @@ body{
   }
   
   .nav-link:hover {
-    background-color: rgb(86, 157, 157);
+    background-color: rgb(67, 106, 106);
     border-radius: 5px;
     cursor: pointer;
   }

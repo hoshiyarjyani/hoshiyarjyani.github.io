@@ -20,7 +20,7 @@ body{
     max-width: 100%;
     z-index: 3;
   }
-  #resume-link-1 {
+  #resume-button-1 {
     border-radius: 7px;
     border: 2px solid rgb(113, 113, 211);
   }

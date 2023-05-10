@@ -41,7 +41,7 @@ GitHubCalendar(".calendar", "hoshiyarjyani", {
   tooltips: true,
 });
 
-document.getElementById("resume-button-1").onclick = () => {
+document.getElementById("resume-link-1").onclick = () => {
   window.open(
     "https://drive.google.com/file/d/16rdkBqNuaSTC4TMVWpN2thxc1Cg8MEwV/view?usp=share_link"
   );
